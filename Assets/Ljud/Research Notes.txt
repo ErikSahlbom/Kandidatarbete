@@ -1,0 +1,189 @@
+RIKTLINJER FÖR GODKÄNT:
+
+Info och Kunskap:
+Undersökningsmaterialet är tillräckligt omfattande och djupt i förhållande till frågeställningen och designprocessen.
+Arbetet visar att studenten behärskar användningen av olika informationskällor och visar avancerad informationssökningskompetens.
+Det samlade materialet är kritiskt granskat. 
+Arbetet visar att studenten kan resonera kring källmaterialet och relatera källmaterial till varandra.
+Arbetet visar på kunskap inom huvudområdet som studenten har inhämtat under sin studietid.
+Arbetet visar att studenten i tillräckligt hög grad har integrerat sina tidigare kunskaper och färdigheter i kandidatarbetet.
+Arbetet visar hur studenten har fördjupat tidigare färdigheter och kunskaper med stöd av tidigare och aktuell forskning.
+
+Frågeställningen:
+Studenten har formulerat en medietekniskt relevant frågeställning.
+Studentens frågeställning är tillräckligt forsknings- och professionsrelaterad  inom studentens profilområde.
+Vid opponeringen klarar studenten av att bedöma medieteknisk relevans i andra studenters frågeställningar.
+
+Förhållningssätt:
+Studenten visar förmåga till  tillämpning och värdering av metoder och processer inom huvudområdet.  
+Studenten kan motivera sina val och resonera kring konsekvenser av sina val.
+Studenten visar förmåga att sätta in sitt arbete i ett helhetsperspektiv för huvudområdet.
+Studenten visar ett genomtänkt kritiskt förhållningssätt till metoder och processer inom huvudområdet. 
+Valen av metoder och processer är väl förankrade i metodlitteraturen och valen  av metoderna och processerna är väl motiverade.
+Studenten visar ett genomtänkt och initierat förhållningssätt till hur medietekniska gestaltande produktioner förhåller sig till för huvudområdet relevant forskning.
+
+Planerande:
+Studenten har planerat en gestaltande produktion.
+Studenten har genomfört en gestaltande produktion utifrån kanditatarbetets frågeställning med stöd av tidigare och aktuell forskning. 
+Arbetet visar att studenten behärskar kunskaper och färdigheter inom sitt profilområde.
+
+Argumentation:
+Studenten diskuterar och argumenterar för det självständigt genomförda arbetet.
+I argumentationen hänvisar studenten till relevanta forsknings- och professionskällor.
+
+Presentation:
+Studenten presenterar och kommunicerar sitt självständiga arbete vid ett examinationstillfälle.
+Studenten presenterar och kommunicerar sitt självständiga arbete vid utställningen.
+
+Kursplan:
+•kunna integrera tidigare kunskaper och färdigheter inom huvudområdet och fördjupa dessa inom ramen för ett självständigt utformat kandidatarbete 
+•kunna formulera medietekniskt relevanta forsknings- och professionsrelaterade frågeställningar 
+•kunna bedöma relevansen i andra studenters frågeställningar Färdighet och förmåga 
+•kunna utförligt söka, samla, värdera och kritiskt tolka relevant forsknings- och professionsinriktad information 
+•utifrån kandidatarbetets förproduktion kunna planera och genomföra en gestaltande produktion 
+•kunna anpassa presentationen av det självständiga arbetet för olika målgrupper Värderingsförmåga och förhållningssätt 
+•kunna detaljerat diskutera och argumentera för det självständigt genomförda arbetet •kunna på ett initierat sätt tillämpa, 
+ värdera och kritiskt förhålla sig till metoder och processer inom huvudområdet 
+•kunna kritiskt tolka hur medietekniska gestaltande produktioner förhåller sig till för huvudområdet relevant forskning
+
+
+
+Utförande av arbetet:
+
+Göra research och studera begreppen Auditory Icon och Earcons mer djupare, gräv djupare i begreppet Psychoacoustics, försök att skapa hypoteser om resultaten och reaktioner.
+Framställa som mycket som går för ett funktionellt spel. Ha olika ljud för den påverkande ljuddesignen som är till för att påverka spelaren.
+Fråga olika personer att spela spelet, undanhåll informationen om den påverkande ljuddesignen, efter att dem har spelat (ca 10 min), intervjua om upplevelsen.
+Slå samman all info från intervjuerna och se om hypoteserna stämmer, eller inte. Skapas det ett mönster? finns det likheter? vad skiljer sig ifrån tidigare forskning?
+
+""Blauert, J. (1997). Spatial hearing: the psychophysics of human sound localization. (Rev. ed.) Cambridge, Mass.: MIT Press.""
+
+Auditory events may occur at positions where nothing is visible: in connection with sounds inside one´s own body or another opaque object,
+behind walls, beyond horizon, in the dark, and so forth. Auditory events, in contrast to what is perceived visually, occur not only in front
+of the observer, but in all directions from the person who is perceiving them. 
+Similiar comparisons may be made with what is persceived via the other senses, such as the tactile, olfactory, and gustatory senses.
+The totality of all possible positions of auditory events constitutes auditory space. The word "space" used in this expression is to be understood
+in the mathematical sense, as a set of points between wich distances can be defined.
+
+Especially in the older literature, the opinion is frequently expressedthat locatedness is not an inherent characteristic of auditory events,
+but that it develops only during the course of the differentiation of theorganism and, specifically, to the degree that the human being learns
+by experience to ascribe the "correct" location to the auditory events.The "correct" location is taken to be the position of the sound source.
+This approach implies that there exist auditory events wich, so to speak, wait in a "nonspace" to be ascribed, and only by an experience individual, 
+to a particular location. The error of such a point of wiew has long been a matter of record (see, e.g., Hornbostel 1926). The actual situation
+is the following: During the development of the individual, the auditory world differentiates itself. Auditory events, at first relatively diffuse
+in their locatedness, become more precisely defined spatially; the correspondence to the visual world and to the other sense also becomes more precise.
+
+
+""Intermodal recoding of a video game: Learning to process signals for motion perception in a pure auditory environment"" 
+
+Key Begrepp!
+
+Preceptual Learning: Perceptual learning is learning better perception skills such as differentiating two musical tones from one another or categorizations of spatial 
+and temporal patterns relevant to real-world expertise as in reading, seeing relations among chess pieces, knowing whether or not an X-ray image shows a tumor.
+Sensory modalities may include visual, auditory, tactile, olfactory, and taste. Perceptual learning forms important foundations of complex cognitive processes 
+and interacts with other kinds of learning to produce perceptual expertise. Underlying perceptual learning are changes in the neural circuitry. 
+The ability for perceptual learning is retained throughout life.
+
+Sensory Substitution: Sensory substitution is a change of the characteristics of one sensory modality into stimuli of another sensory modality.
+A sensory substitution system consists of three parts: a sensor, a coupling system, and a stimulator. The sensor records stimuli and gives them to a coupling system which 
+interprets these signals and transmits them to a stimulator. In case the sensor obtains signals of a kind not originally available to the bearer it is a case of sensory augmentation. 
+Sensory substitution concerns human perception and the plasticity of the human brain; and therefore, allows us to study these aspects of neuroscience more through neuroimaging.
+
+Sensory Modality: Any of the relatively independent sensory systems such as vision, hearing, smell, taste, and touch, 
+the traditional five senses originally identified in about 350 bc by the Greek philosopher Aristotle (384–322bc), who recognized that touch includes different senses within itself. 
+In 1904 the Austrian physiologist Max von Frey (1852–1932) identified the four component sensations of touch as heat, cold, pain, and pressure, 
+pressure now being known to include sensations of texture and vibration. The sensory systems associated with the vestibular system, kinaesthesis, proprioception, 
+and the magnetic sense are also sometimes regarded as sensory modalities. Also called a modality or a sense or a communication channel. 
+See also cross-modal matching, cross-modal transfer, egocentre, modality effect, Molyneux's question, synaesthesia.
+
+Sensorimotor Control: Sensory-motor coupling is the coupling or integration of the sensory system and motor system. Sensorimotor integration is not a static process. 
+For a given stimulus, there is no one single motor command. "Neural responses at almost every stage of a sensorimotor pathway are modified at short and long timescales by biophysical and 
+synaptic processes, recurrent and feedback connections, and learning, as well as many other internal and external variables".
+
+Mental Rotation: Mental rotation is the ability to rotate mental representations of two-dimensional and three-dimensional objects as it is related to the visual representation of such 
+rotation within the human mind.
+
+Visual Attention och Spatial Perception:Visual spatial attention is a form of visual attention that involves directing attention to a location in space.
+Spatial attention allows humans to selectively process visual information through prioritization of an area within the visual field. A region of space within the visual field is selected for 
+attention and the information within this region then receives further processing. Research shows that when spatial attention is evoked, an observer is typically faster and more accurate at 
+detecting a target that appears in an expected location compared to an unexpected location. Spatial attention is distinctive from other forms of visual attention such as object-based attention 
+and feature-based attention.These other forms of visual attention select an entire object or a specific feature of an object regardless of its location, whereas spatial attention selects a 
+specific region of space and the objects and features within that region are processed.
+
+Target Recognition: Target recognition was initially done by using an audible representation of the received signal, 
+where a trained operator who would decipher that sound to classify the target illuminated by the radar.
+
+Global Attention: Attention is the behavioral and cognitive process of selectively concentrating on a discrete aspect of information, 
+whether deemed subjective or objective, while ignoring other perceivable information.
+
+""Hearing but Not Listening:  Auditory Icons and Presence""
+
+Studies have shown that the presence of others, even virtual presence may affect one’s behavior. For example, Blair, Thompson, and Wuenschv have shown that the more people are online 
+in a mailing list; the least will offer help when asked for using email. This is in correspond with the real world which is called the bystander effect – when there are more people in 
+a public space, one is less likely to give help to someone in need because on is expecting others to give their hands. Shih and Swan have shown that the “feeling of being there” or 
+social presence has an affect on students participation in online learning. Meanwhile, Zanbanka et al. have shown that the social facilitation/inhibition theory also applies to virtual human. 
+The theory states that when performing a complex task, people perform less well in the presence of others but perform well if the task is simple. Zanbanka et al. proved that the virtual 
+presence of others  (video recording of people watching the participants performing complex task) also has the same affects with the presence of real human.
+Therefore, presence is an important concept; since the feeling of presence of others can change the way people behave and feel. We argue that, 
+if auditory icons could be proven to increase the feeling of presence, they can be used to generate the feeling of presence for people who are isolated due to illness or old age.
+
+In HCI the research done in the application of nonspeech audio can be divided into four main areas as according to Brewster. 
+First, is in the use of sound to augment the capability of Graphical User Interface (GUI). It is argued that human perceive and understand their environment using all 
+their senses, but computer interaction is biased towards the visual sense thus other senses are underutilized. By augmenting the visual with sound, interaction could be 
+performed in a more natural and effective manner. Other research area, which is similar to this, is in the multimodal interaction, which does not only incorporate sound 
+to the visual element of interaction, but also haptic interaction. Second, is in universal access, especially in designing interaction for people with visual impairment. 
+The visual-biased culture in designing computer interaction has disadvantaged the visually impaired. Sound is seen as the appropriate interface for this specific user group. 
+Third, is in sonification, which is the use of sound to represent a complex data set, and not just as warning signals. A user may experience information overload when deciphering 
+complex information on a visual interface. Sonification can be used to overcome this problem. The fourth area of application of nonspeech sound in HCI is for mobile and ubiquitous computing. 
+In this application area, sound is used because mobile application has limited screen real estate, and the users of such application are on the move so application that requires 
+constant visual attention may not be desirable. Ambient auditory environment is one of the research area in mobile and ubiquitous computing. 
+Other use of nonspeech sound in HCI is to create mood using music and sound effects, especially in the design of games and multimedia applications.
+
+According to Gaver, auditory icons map the everyday sounds to the actions or processes done on the computer, for example scrapping sound is used to represent dragging a file 
+to the trash. However there are processes that cannot be directly mapped to the real world sounds. In a system that utilized auditory icons by Gaver called the SonicFinder, 
+copying a file is mapped to the sound of pouring water. Other than demonstrating the usage of auditory icons in the simple Finder application, Gaver has also shown that 
+auditory icons can be used to convey more complex information that can enhance remote work collaboration such in the ARKola simulation.
+
+Auditory icons have also been used as ambient sound in physical environment in the Weakly Intrusive Ambient Soundscape (WISP). 
+It projects sound cues into the environment to give people the “intuition” about information rather than interrupt people with sound notification, 
+for example the sound of birds is used to denote how many coworker has arrived in the building, the more people, more birdsong could be heard.
+
+Earcons, on the other hand, is the representation of information using abstract music-like sound. Unlike auditory icons, people have to learn the meaning of 
+the earcons in order to use them. An example of earcons application is in depicting EEG data analysis[13]. The advantages of earcons are they can be easily 
+produced with computers and can be used to depicts soundless events or events with unpleasant sounds since they are abstract.  
+
+Listening is the core part of acoustic communication theory and not hearing. Sound is the “exchange of information, rather than energy”. 
+
+Everyday sounds become sound objects when recorded. However, when everyday sounds are used as auditory icons, they are actually sound events. 
+This is because, the sounds now represent events, though may be remote and unseen, but in the minds of people who are experiencing the auditory icons, 
+the sounds still represent something meaningful, and not just recorded sounds that are detached from their context.
+
+However, hearing does not induce a high level of presence; listening does.
+
+"" Designing Sound-Based Computer Games""
+
+The central feature of sound-based applications is that they can be used without the aid of graphics, as sufficient information is conveyed aurally, 
+by an auditory interface. Auditory interfaces can contain speech, music or “sound effects” for communication (Gaver 1997).
+
+Recorded or synthesised speech is useful for conveying very precise information, such as game instructions. However, within a game, speech tends to grow tedious if repeated too often. 
+It is also generally too slow to communicate events occurring in the high tempo that characterises many types of games. Neither is speech suitable if more than one message is conveyed 
+simultaneously. In many cases it is better to illustrate events by the use of recorded sounds and music. So how does a designer of sound-based games communicate the status, the progress 
+and the events of a game with non-speech sounds? A simple strategy is to use actual sound recordings of the event one intends to illustrate. However, since all objects or events do not 
+emit sounds, authentic sounds are not always available, and in some cases they can be difficult to recognise. Still, it is often desirable to use sounds that the player has some previous 
+experience of. In the Towers of Hanoi game, I have tried to use sounds that are related to the objects or events they are to illustrate, so the stone discs make ‘clink’ sounds, 
+and the wooden poles sound somewhat like poles being stuck into the ground. When moving a disc sideways, one hears a ‘swish’ that gives the impression of an object 
+being moved, even though stone discs rarely make such sounds. Some objects and events do not relate tosounds in any straightforward way. It can then be necessary to convey the intended 
+experience with a completely abstract, musical sound. While abstract sounds might take longer for the player to learn, they can generate very pleasant, musical interfaces, since the sounds 
+can be chosen for their aesthetic qualities.
+
+Dynamic events are generally easier to convey, so one possible strategy is to design a system where the sounds of different objects are heard only when the player moves his or her ‘focus’ 
+towards them. An alternative method is to design an environment where all static objects are associated with continuous ambient sounds. This approach will usually generate more abstract, 
+musical settings. Abstract sounds are much more flexible and can symbolise anything, although they are less specific and can take some time to learn. 
+The lack of conventions to draw material from is obviously a major obstacle when communication relies on non-speech sound.
+
+
+
+
+
+
+
+
